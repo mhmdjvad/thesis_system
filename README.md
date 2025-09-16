@@ -37,9 +37,12 @@ The project has been refactored into a modular structure for better readability 
 ## 5. Implementation Details
 
 **Password Hashing**: To enhance security, user passwords are no longer stored as plain text. Instead, they are hashed using the **`bcrypt`** algorithm. `bcrypt` is a strong hashing algorithm designed for secure password storage. It uses a random "salt" to prevent dictionary and rainbow table attacks. When a user logs in, the entered password is hashed and compared to the hashed version stored in the `users.json` file.
-users pass : pass123 \n
-teacher pass : drpass \n
-reviewer pass: revpass \n
+users pass : pass123
+
+teacher pass : drpass 
+
+reviewer pass: revpass 
+
 Due to possible problems on the library's side, the password hashing system may not work properly. In this case, change the passwords manually.
 
 ## 6. How to Run the Program
@@ -68,3 +71,4 @@ Request a Thesis
 View Request Status
 
 ...
+
