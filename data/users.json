@@ -1,0 +1,38 @@
+[
+  {
+    "id": "S1001",
+    "type": "student",
+    "name": "Ali Rezaei",
+    "password_hash": "$2a$12$NM8QNik0LIsH/aizzuj.PezZLDbXAXVafEHRwBb7zQpCnLtjO9Ya6" 
+  },
+  {
+    "id": "S1002",
+    "type": "student",
+    "name": "Sara Mohammadi",
+    "password_hash": "$2a$12$NM8QNik0LIsH/aizzuj.PezZLDbXAXVafEHRwBb7zQpCnLtjO9Ya6"
+  },
+  {
+    "id": "T2001",
+    "type": "supervisor",
+    "name": "Dr. Ahmadi",
+    "password_hash": "$2a$12$GBn055fEA1SJUXHjsvJDoeyb5CF5GHcOnop0XRKhscy95EP6Ovt6W",
+    "supervise_count": 0,
+    "review_count": 0
+  },
+  {
+    "id": "T2002",
+    "type": "supervisor",
+    "name": "Dr. Hosseini",
+    "password_hash": "$2a$12$GBn055fEA1SJUXHjsvJDoeyb5CF5GHcOnop0XRKhscy95EP6Ovt6W",
+    "supervise_count": 0,
+    "review_count": 0
+  },
+  {
+    "id": "T3001",
+    "type": "reviewer",
+    "name": "Dr. Karimi",
+    "password_hash": "$2a$12$AiSeZw/6/mrad1J4zgg0T.6KLTS9s6Bb47fFEMPL52FCvH08Ptt02",
+    "supervise_count": 0,
+    "review_count": 0
+  }
+]

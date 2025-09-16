@@ -1,0 +1,28 @@
+[
+  {
+    "course_id": "TH1404-01",
+    "title": "Thesis - Machine Learning",
+    "supervisor_id": "T2001",
+    "year": 1404,
+    "semester": "First",
+    "capacity": 2,
+    "resources": [
+      "Ref A"
+    ],
+    "sessions": 10,
+    "units": 6
+  },
+  {
+    "course_id": "TH1404-02",
+    "title": "Thesis - Computer Vision",
+    "supervisor_id": "T2002",
+    "year": 1404,
+    "semester": "First",
+    "capacity": 1,
+    "resources": [
+      "Ref B"
+    ],
+    "sessions": 10,
+    "units": 6
+  }
+]
